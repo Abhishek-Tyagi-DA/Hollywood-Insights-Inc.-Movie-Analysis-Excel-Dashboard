@@ -5,7 +5,7 @@ This project focuses on analyzing a comprehensive movie dataset using **Microsof
 
 🔗 **Dataset Used:** [movies.csv](https://github.com/Abhishek-Tyagi-DA/Hollywood-Insights-Inc.-Movie-Analysis-Excel-Dashboard/blob/main/movies.csv)
 
-![image](https://github.com/user-attachments/assets/42ae099a-8e8a-4ec7-a150-cb1fa4191132)
+![Image](https://github.com/user-attachments/assets/24d4cc3b-a2e6-4b3d-9542-976abfd9da8a)
 
 ---
 ### Project Objective
@@ -92,9 +92,10 @@ Hollywood Insights Inc. is a data analytics firm specializing in the film and en
 
 ---
 
-## **Objective**  
-The project aims to thoroughly analyze Hollywood Insights Inc.'s comprehensive movie dataset to uncover insights into the dynamics of the movie industry. Students will use advanced Excel techniques to explore various facets of the dataset, including trends in movie genres, financial analysis of movie budgets and earnings, and the impact of directors and stars on movie success. Key tasks involve data cleaning, manipulation, visualization, and the creation of an interactive dashboard that captures the essence of the movie industry's trends and patterns.  
-
+<img width="743" alt="Screenshot 2024-09-27 173045" src="https://github.com/user-attachments/assets/67569d3b-beca-4d92-bd3b-5089a9431e83">
+<img width="778" alt="Screenshot 2024-09-27 173131" src="https://github.com/user-attachments/assets/ffb2c088-a81f-466e-b44c-21bd4780e59e">
+<img width="595" alt="Screenshot 2024-09-27 173210" src="https://github.com/user-attachments/assets/29f62e12-a3e1-4b4b-818c-7f23b019f038">
+<img width="716" alt="Screenshot 2024-09-27 173715" src="https://github.com/user-attachments/assets/21bf0f9f-5d39-4b5b-b07e-c5e2a7403622">
 
 ---
 
@@ -103,9 +104,15 @@ This project successfully analyzes Hollywood Insights Inc.'s movie dataset and p
 
 ---
 
-### **Contact**  
-📩 **Email:** [abhityagi4733@gmail.com](mailto:abhityagi4733@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/abhishektyagi02](https://linkedin.com/in/abhishektyagi02)  
-🔗 **GitHub:** [github.com/abhishek-tyagi-da](https://github.com/abhishek-tyagi-da)  
+## 📬 Contact
+📩 Email: [abhityagi4733@gmail.com](mailto:abhityagi4733@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/abhishektyagi02](https://linkedin.com/in/abhishektyagi02)  
+🔗 GitHub: [github.com/abhishek-tyagi-da](https://github.com/abhishek-tyagi-da)    
+
+
+🚀 **Transforming raw data into valuable insights.**
+
+⭐ *If you found this project useful, consider giving it a star! ⭐*
+
 
 ---
